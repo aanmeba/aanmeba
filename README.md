@@ -1,12 +1,10 @@
-### 👋 Hi there, I'm **Jungah**!
+## 👋 Hi there, I'm **Jungah**!
 
 Welcome to my GitHub👀!
-
 I'm learning coding to become a full-stack developer🌱
-
 Wish me luck!🤞😆🤞
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 that I'm learning and will learn in the future
 
