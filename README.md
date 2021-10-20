@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **Jungah**!
+## 👋 Hi there, I'm Jungah!
 
 Welcome to my GitHub👀!
 
