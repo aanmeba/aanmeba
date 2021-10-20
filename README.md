@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Jungah
+
+### /dʒu:ŋ-ɒ/
+
+This is Jungah! Welcome to my GitHub👀!
+
+I'm learning coding to become a full-stack developer🌱
+
+Wish me luck!🤞😆🤞
+
 <!--
 **aanmeba/aanmeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
