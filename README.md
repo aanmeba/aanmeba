@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Jungah Ahn </h2>
-<p align="center"> 👩‍💻 Junior Web Developer | 
+<p align="center"> 👩‍💻 Junior Full-Stack Developer | 
 📍 Sydney, Australia
 </p>
 <div align="center">  
